@@ -2,6 +2,8 @@
 
 Potrebno je imati Docker instalisan kako bi se pokrenuo projekat.
 
+Github url: https://github.com/rizvanselma/wpd_seminarski
+
 ## Postavljanje projekta
 ```bash
 cp .env.example .env
